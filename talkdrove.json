@@ -1,5 +1,5 @@
 {
-    "bot-name": "SHABAN-MD",
+    "bot-name": "RAEES-MD",
     "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Shaban",
     "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
     "keywords": ["bot"],
@@ -88,7 +88,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐒𝐡𝐚𝐛𝐚𝐧"
+      "value": "RAEES 👑"
 }, 
 
     "OWNER_NUMBER": {
@@ -101,7 +101,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "RAEES-MD"
 
       }, 
 
