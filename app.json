@@ -1,8 +1,8 @@
 {
   "name": "SHABAN-MD",
-  "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
-  "logo": "https://i.ibb.co/mCfPfmJL/shaban-md.jpg",
-  "keywords": ["SHABAN-MD"],
+  "description": "Javascript WhatsApp bot made by KING RAEES",
+  "logo": "",
+  "keywords": ["RAEES-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -22,12 +22,12 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "MR-SHABAN"
+      "value": "KING-MD"
 }, 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923043788282"
+      "value": "923158479223"
 
     }, 
     
@@ -104,7 +104,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD V5"
+      "value": "KING-MD V1"
 
      },
      
