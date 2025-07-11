@@ -1,5 +1,5 @@
 {
-  "name": "SHABAN-MD",
+  "name": "RAEES-MD",
   "description": "Javascript WhatsApp bot made by KING RAEES",
   "logo": "",
   "keywords": ["RAEES-MD"],
@@ -34,7 +34,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": true,
-      "value": "https://i.ibb.co/j9G5tmNM/shaban-md.jpg"
+      "value": "https://ibb.co/gb6bt69X"
     }, 
       
     "PREFIX": {
